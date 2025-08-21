@@ -7,9 +7,13 @@
 					</div>
 					<div class="col-md">
 						<div class="content">
-							<h2>Know More About Our Plumbing Services</h2>
-							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis accusantium ullam, quo, exercitationem nihil accusamus rem cum dignissimos cupiditate culpa a sapiente hic sit vero et labore quis. Voluptates, dolore.</p>
-							<button class="button">Get Started</button>
+							<h2>Know More About Our Services</h2>
+							<p>We provide fast and reliable mobile phone repair services 
+  with the convenience of <b>coming directly to your location</b>. 
+  No need to waste time waiting at a service center—simply book our service 
+  and our expert technicians will come to your home or office 
+  to fix your phone safely, professionally, and with a warranty.</p>
+							<a href="#pricing"><button class="button">Get Started</button></a>
 						</div>
 					</div>
 					<div class="col-md-3 image-right">

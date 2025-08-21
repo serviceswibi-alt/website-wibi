@@ -1,7 +1,7 @@
 <template>
-    <div id="navbar" class="navbar navbar-expand-lg justify-content-center align-items-center">
+    <div id="navbar" class="navbar navbar-expand-lg justify-content-center align-items-center fixed-top">
 			<div class="container-fluid">
-				 <a href="#" class="navbar-brand"><img src="/img/logo.png" alt=""></a>
+				 <a href="#" class="navbar-brand"><img src="/img/logo.png" alt="logo directfix" style="width: 150px; height: 50px;"></a>
 				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 			        <i class="la la-bars"></i>
 			    </button>
@@ -18,7 +18,7 @@
 			    </div>
 			   
 			    <ul class="button-navbar">
-			    	<li><button class="button button2">Contact Now</button></li>
+			    	<li><a href="https://wa.me/62895326525349" target="_blank"><button class="button button2">Contact Now</button></a></li>
 			    </ul>
 			</div>
 		</div>

@@ -19,15 +19,15 @@
 							<div class="col-md-6">
 								<div class="content">
 									<h4>Easy Levels</h4>
-									<p class="bold"><span>50-450</span>$</p>
-									<button class="button button2">Contact Now</button>
+									<p class="bold"><span>10-50</span>$</p>
+									<a  href="https://wa.me/62895326525349" target="_blank"><button class="button">Contact Now</button></a>
 								</div>
 							</div>
 							<div class="col-md-6">
 								<div class="content">
 									<h4>Difficult</h4>
-									<p class="bold"><span>410-950</span>$</p>
-									<button class="button button2">Contact Now</button>
+									<p class="bold"><span>50-100</span>$</p>
+									<a  href="https://wa.me/62895326525349" target="_blank"><button class="button button2" href="https://wa.me/62895326525349" target="_blank">Contact Now</button></a>
 								</div>
 							</div>
 						</div>

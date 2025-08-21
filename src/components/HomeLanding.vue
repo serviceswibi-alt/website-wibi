@@ -14,11 +14,11 @@ import FooterHome from "./home-landing/Footer.vue";
 <template>
   <div style="padding: 0 2;">
         <!-- preloader -->
-         <Preloader />
+         <!-- <Preloader /> -->
         <!-- navbar -->
 		<Navbar />
 		<!-- end navbar -->
-
+		 <div style="margin-top: 4rem"></div>
         <!-- intro -->
 		<Intro />
 		<!-- end intro -->

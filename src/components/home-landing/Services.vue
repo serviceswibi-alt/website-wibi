@@ -14,35 +14,37 @@
 								<div class="col">
 									<div class="content">
 										<img src="/img/services1.png" alt="">
-										<h4>Pipe Installation</h4>
-										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+										<h4>Screen Replacement</h4>
+										<p>Cracked or shattered screen? Don’t worry — we provide fast and reliable 
+  screen replacement services using high-quality parts. Our technicians 
+  will come to your location and make your phone look brand new again.</p>
 									</div>
 									<div class="content">
 										<img src="/img/services2.png" alt="">
-										<h4>Toilet Repairing</h4>
-										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+										<h4>Battery Fixing</h4>
+										<p> Fast and reliable battery replacement to keep your phone running longer.</p>
 									</div>
 									<div class="content">
 										<img src="/img/services3.png" alt="">
-										<h4>Cable Plumbing</h4>
-										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+										<h4>Speaker & Microphone Repair</h4>
+										<p>Clear sound and perfect calls with expert audio repair.</p>
 									</div>
 								</div>
 								<div class="col">
 									<div class="content">
 										<img src="/img/services4.png" alt="">
-										<h4>Drain Cleaning</h4>
-										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+										<h4>Software Troubleshooting</h4>
+										<p>Fix software glitches and restore smooth performance.</p>
 									</div>
 									<div class="content">
 										<img src="/img/services5.png" alt="">
-										<h4>Cleaning Pipe</h4>
-										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+										<h4>Water Damage Repair</h4>
+										<p>Professional water damage treatment to save your device.</p>
 									</div>
 									<div class="content">
 										<img src="/img/services6.png" alt="">
-										<h4>Water Filtering</h4>
-										<p>Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
+										<h4>Charging Port Repair</h4>
+										<p>Fix charging issues quickly so your phone powers up with no hassle.</p>
 									</div>
 								</div>
 							</div>
